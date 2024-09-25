@@ -1,3 +1,3 @@
-Fábio Morais de Freitas
-Francisco Augusto Malta
+Fábio Morais de Freitas,
+Francisco Augusto Malta,
 Matheus Gomes
