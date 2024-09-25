@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     function registrarSaida(index) {
         const alunos = JSON.parse(localStorage.getItem('alunos')) || [];
-        alunos[index].horaSaida = new Date().toLocaleString(); // Atualiza a hora de saída
+        alunos[index].horaSaida = new Date().toLocaleString(); 
 
       
         atualizarAlunos(alunos);
