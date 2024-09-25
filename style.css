@@ -1,4 +1,4 @@
-/* Estilos globais */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #003366;
+    background-color: #663100;
     color: white;
     padding: 20px;
     text-align: center;
@@ -32,7 +32,7 @@ section {
 }
 
 h3 {
-    color: #003366;
+    color: #663f00;
     margin-bottom: 10px;
 }
 
@@ -56,7 +56,7 @@ input[type="text"], input[type="email"], input[type="tel"] {
 }
 
 button {
-    background-color: #003366;
+    background-color: #664600;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -67,7 +67,7 @@ button {
 }
 
 button:hover {
-    background-color: #005599;
+    background-color: #996e00;
 }
 
 table {
@@ -85,7 +85,7 @@ th, td {
 }
 
 th {
-    background-color: #003366;
+    background-color: #665200;
     color: white;
 }
 
@@ -96,11 +96,11 @@ td button {
 }
 
 .saida-btn {
-    background-color: #28a745;
+    background-color: #8e28a7;
 }
 
 .saida-btn:hover {
-    background-color: #218838;
+    background-color: #88212f;
 }
 
 .remover-btn {
